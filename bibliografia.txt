@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 Chacon, S and Straub, B Pro Git ....
+=======
+Chacon , S and Straub, B Pro Git. Apress i Rayan Houdson. Ry's Git Toturial 
+Smashwords (2014)
+ 
+>>>>>>> libro
+Chacon, S and Straub, B Pro Git Apress Loeliger, J and McCulloung M...
